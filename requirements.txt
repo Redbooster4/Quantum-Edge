@@ -1,0 +1,10 @@
+Flask
+requests
+google-cloud-aiplatform
+Pillow
+diffusers
+torch
+transformers
+accelerate
+huggingface-hub
+python-dotenv
