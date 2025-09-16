@@ -8,3 +8,8 @@ transformers
 accelerate
 huggingface-hub
 python-dotenv
+gunicorn
+Flask-Cors
+Flask-SocketIO
+gevent
+geventwebsocket
