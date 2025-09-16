@@ -12,4 +12,3 @@ gunicorn
 Flask-Cors
 Flask-SocketIO
 gevent
-geventwebsocket
